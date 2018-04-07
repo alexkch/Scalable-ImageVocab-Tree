@@ -1,4 +1,5 @@
 # Scalable-ImageVocab-Tree
+by: Alex Chang
 
 Scalable Image Vocabulary Tree
 Implementing [1] using Stanford Mobile Visual Search imageset [2] as test and training dataset
